@@ -45,3 +45,10 @@ git add README.md
 git commit -m 'Commit 5'
 ```
 
+Commit 6:
+``` bash
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 6'
+```
+
