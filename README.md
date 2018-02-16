@@ -22,3 +22,10 @@ git add README.md
 git commit -m 'Commit 2'
 ```
 
+Commit 10:
+``` bash
+git checkout master
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 10'
+```
