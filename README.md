@@ -31,3 +31,10 @@ Commit 8:
 git add README.md
 git commit -m 'Commit 8'
 ```
+
+Commit 9:
+``` bash
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 9'
+```
