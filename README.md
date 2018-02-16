@@ -83,3 +83,10 @@ git add README.md
 git commit -m 'Commit 11'
 ```
 
+Commit 12:
+``` bash
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 12'
+```
+
