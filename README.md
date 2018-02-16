@@ -24,3 +24,10 @@ git checkout -b bug-fix-experimental 0562417437263c30fa50d7e1321194d26a6cdfb6
 git add README.md
 git commit -m 'Commit 7'
 ```
+
+Commit 8:
+``` bash
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 8'
+```
