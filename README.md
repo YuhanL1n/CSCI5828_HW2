@@ -8,6 +8,19 @@ git init
 git add README.md
 git commit -m 'Commit 0'
 ```
+Commit 1:
+``` bash
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 1'
+```
+
+Commit 2:
+``` bash
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 2'
+```
 
 Commit 3:
 ``` bash
@@ -23,3 +36,12 @@ Commit 4:
 git add README.md
 git commit -m 'Commit 4'
 ```
+
+Commit 5:
+``` bash
+git merge master
+[FIX MERGE CONFLICTS]
+git add README.md
+git commit -m 'Commit 5'
+```
+

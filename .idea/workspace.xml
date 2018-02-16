@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afcb3da7-16de-4fe9-b2b5-79ed32fa2652" name="Default" comment="" />
+<<<<<<< HEAD
     <list id="db91cc44-30c5-4a94-a74f-8c9444e30916" name="Commit 3" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
+=======
+>>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +34,10 @@
     <option name="width" value="1280" />
     <option name="height" value="717" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+>>>>>>> master
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -86,6 +92,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,13 +142,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
   </component>
+=======
+>>>>>>> master
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="afcb3da7-16de-4fe9-b2b5-79ed32fa2652" name="Default" comment="" />
+<<<<<<< HEAD
       <changelist id="db91cc44-30c5-4a94-a74f-8c9444e30916" name="Commit 3" comment="" />
+=======
+>>>>>>> master
       <created>1518738225418</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
