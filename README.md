@@ -17,9 +17,10 @@ git add README.md
 git commit -m 'Commit 3'
 ```
 
-Commit 4:
+Commit 7:
 ``` bash
+git checkout -b bug-fix-experimental 0562417437263c30fa50d7e1321194d26a6cdfb6
 [EDIT README.md]
 git add README.md
-git commit -m 'Commit 4'
+git commit -m 'Commit 7'
 ```
