@@ -8,3 +8,10 @@ git init
 git add README.md
 git commit -m 'Commit 0'
 ```
+Commit 1:
+``` bash
+[EDIT README.md]
+git add README.md
+git commit -m 'Commit 1'
+```
+
